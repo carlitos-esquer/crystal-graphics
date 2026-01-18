@@ -21,7 +21,6 @@ SDL2 bindings implementation, minimum, with samples. .Complete Conway Mini-Life 
 ## 📦 Projects Included
 
 ### 🎮 [Crystal Life](life/) - Conway's Game of Life
-```bash
 cd life && shards install && crystal run src/life.cr
 
 ### 🧠 Crystal Neural - Complete NN Suite

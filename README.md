@@ -52,10 +52,11 @@ crystal run src/life.cr
 |Researchers	|Ternary network implementation
 
 ### 📊 Performance Highlights
-# Game of Life: 1000x1000 grid @ 60 FPS
-# Neural Net: 86.65% accuracy on Fashion-MNIST
-# Ternary Weights: 85.3% accuracy with 2-bit weights
-# SDL: Native C performance with Ruby-like syntax
+ Game of Life: 1000x1000 grid @ 60 FPS
+ Neural Net: 86.65% accuracy on Fashion-MNIST
+ Ternary Weights: 85.3% accuracy with 2-bit weights
+ SDL: Native C performance with Ruby-like syntax
+
 🛠️ Requirements
 Crystal 1.0+
 

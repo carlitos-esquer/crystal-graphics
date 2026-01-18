@@ -24,13 +24,13 @@ SDL2 bindings implementation, minimum, with samples. .Complete Conway Mini-Life 
 ```bash
 cd life && shards install && crystal run src/life.cr
 
-🧠 Crystal Neural - Complete NN Suite
+### 🧠 Crystal Neural - Complete NN Suite
 cd neural && crystal run examples/fashion_mnist.cr
 
-🖼️ crSDL - SDL2 Bindings for Crystal
+### 🖼️ crSDL - SDL2 Bindings for Crystal
 cd crsdl && crystal run examples/basic_window.cr
 
-Clean, efficient SDL bindings with Crystal idioms
+### Clean, efficient SDL bindings with Crystal idioms
 
 ⚡ Quick Start
 Install Crystal: crystal-lang.org/install
@@ -43,7 +43,7 @@ cd life
 shards install
 crystal run src/life.cr
 
-🎯 Perfect For
+### 🎯 Perfect For
 |Audience|	Value |
 |--------|--------|
 |Crystal Learners	|Real projects to study
@@ -52,8 +52,7 @@ crystal run src/life.cr
 |Educators	|Working code examples
 |Researchers	|Ternary network implementation
 
-📊 Performance Highlights
-crystal
+### 📊 Performance Highlights
 # Game of Life: 1000x1000 grid @ 60 FPS
 # Neural Net: 86.65% accuracy on Fashion-MNIST
 # Ternary Weights: 85.3% accuracy with 2-bit weights
@@ -74,4 +73,3 @@ Open an Issue
 Check the Examples directory
 
 Read the Wiki
-

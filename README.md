@@ -32,15 +32,14 @@ cd crsdl && crystal run examples/basic_window.cr
 ### Clean, efficient SDL bindings with Crystal idioms
 
 ⚡ Quick Start
+
 Install Crystal: crystal-lang.org/install
 
 Clone this repo:
-git clone https://github.com/yourname/crystal-multimedia.git
-cd crystal-multimedia
 
-cd life
-shards install
-crystal run src/life.cr
+git clone https://github.com/yourname/crystal-graphics.git
+
+cd crystal-graphics
 
 ### 🎯 Perfect For
 |Audience|	Value |
@@ -52,10 +51,13 @@ crystal run src/life.cr
 |Researchers	|Ternary network implementation
 
 ### 📊 Performance Highlights
- Game of Life: 1000x1000 grid @ 60 FPS
- Neural Net: 86.65% accuracy on Fashion-MNIST
- Ternary Weights: 85.3% accuracy with 2-bit weights
- SDL: Native C performance with Ruby-like syntax
+Game of Life: 1000x1000 grid @ 60 FPS
+
+Neural Net: 86.65% accuracy on Fashion-MNIST
+
+Ternary Weights: 85.3% accuracy with 2-bit weights
+
+SDL: Native C performance with Ruby-like syntax
 
 🛠️ Requirements
 Crystal 1.0+
